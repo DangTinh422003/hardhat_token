@@ -4,3 +4,8 @@
 ```bash
   npx hardhat compile
 ```
+
+## Test token
+```bash
+  npx hardhat test
+```
